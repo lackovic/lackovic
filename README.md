@@ -1,6 +1,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lackovic&show_icons=true&theme=vue&hide_title=true&count_private=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lackovic&" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lackovic)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **lackovic/lackovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
